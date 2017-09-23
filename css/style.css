@@ -1,0 +1,23 @@
+#tab{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+
+
+}
+
+li {
+    display: inline;
+    border: 1px solid black;
+}
+
+#content {
+
+    border: 1px solid black;
+
+}
+
+#active {
+
+}
